@@ -1,6 +1,6 @@
 # Docker部署redis集群
 
-tag：redis部署
+tag：redis
 
 
 
