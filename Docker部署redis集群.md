@@ -107,7 +107,7 @@ services:
 
 整个目录文件如下
 
-<img src="/Users/francis/Library/Application Support/typora-user-images/image-20240529101835399.png" alt="image-20240529101835399" style="zoom:50%;float:left" />
+<img src="resource/image-20240529101835399.png" alt="image-20240529101835399" style="zoom:50%;float:left" />
 
 
 
